@@ -1,5 +1,5 @@
 # v1
-Qutubuku
+Project Plan for Bangkit 2022 Product-based Capstone | Qutubuku
 --
 Team :
 - (ML) M7003F0142 - Melvita Grace Tjuventia - Institut Teknologi Harapan Bangsa
